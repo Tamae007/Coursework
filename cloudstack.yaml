@@ -1,4 +1,4 @@
-AWSTemplateFormatVersion: "2010-09-09"
+AWSTemplateFormatVersion: "2025-00-13"
 Description: CloudFormation template to create a VPC, IG, subnet, route table, SG, and EC2 instance.
 
 Parameters:
