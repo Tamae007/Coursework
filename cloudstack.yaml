@@ -84,7 +84,7 @@ Resources:
     Properties:
       Tags:
       - Key: Name
-        Value: MyEC2
+        Value: Coursework
       
       ImageId: ami-084568db4383264d4 # Ubuntu 24.04 LTS in us-east-1 region 
     
